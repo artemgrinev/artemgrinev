@@ -6,7 +6,7 @@
 
 ## Навыки:
 + Автоматизация RestAPI: [пример](https://github.com/artemgrinev/testAPI "Автотест API сайта dummyapi.io")
-+ Автоматизация UI: [UI test DemoQA](https://github.com/artemgrinev/demoqa_UI_autotest "Автотест Ui сайта demoqa.com") [тестовое задание](https://github.com/artemgrinev/test_flask "Решение тестового задания"
++ Автоматизация UI: [UI test DemoQA](https://github.com/artemgrinev/demoqa_UI_autotest "Автотест Ui сайта demoqa.com") [тестовое задание](https://github.com/artemgrinev/test_flask "Решение тестового задания")
 + [Написание парсеров](https://github.com/artemgrinev/products_market_parser)
 + Python(pytest, allure, selenium, requests, bs4)
 + JavaScript(основы)
