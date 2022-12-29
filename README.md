@@ -1,9 +1,8 @@
 # Python AutoQA 
----
+
 ## Контакты:
 + [telegramm](https://t.me/GrinevArtem)
 + [gmail](artemgrinyov90@gmail.com)
----
 
 ## Навыки:
 + Автоматизация RestAPI: [пример](https://github.com/artemgrinev/testAPI "Автотест API сайта dummyapi.io")
