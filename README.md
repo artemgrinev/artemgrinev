@@ -1,4 +1,4 @@
-# Python AutoQA 
+# Python QA Engineer
 
 ## Контакты:
 + [telegramm](https://t.me/GrinevArtem)
